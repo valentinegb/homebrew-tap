@@ -1,6 +1,6 @@
 cask "bonelab-mod-manager" do
-  version "0.6.1"
-  sha256 "c6f2305d9ab7e5054c2869d97d3c6c5adb0aadb4bef06ef4a7ac355ffd61daf5"
+  version "0.6.2"
+  sha256 "a30d530e57a97a4e813f17102062ee6c94794b56982b44c0c0a3f5caf9665f45"
 
   url "https://github.com/valentinegb/bonelab_mod_manager/releases/download/v#{version}/bonelab_mod_manager.dmg"
   name "Bonelab Mod Manager"
